@@ -1,0 +1,179 @@
+#fd {
+  background-color: black;
+}
+
+#sb {
+  text-align: center;
+  font-weight: 700px;
+  color: red;
+}
+
+#cr {
+  color: white;
+}
+
+#warning {
+  color: #FFC080;
+}
+
+#iw {
+  color: red;
+  font-weight: 750px;
+  text-align: center;
+}
+
+#cu {
+  color: #0097A7;
+}
+
+#fu {
+  width: 250px;
+  color: #129eb4;
+  background-color: #333333;
+  border: 3px solid #FFF0F0;
+  display: inline-block;
+}
+
+#uc {
+  background-color: #333333;
+  height: 200px;
+  margin: 5px;
+}
+
+.a {
+  display: inline-block;
+  text-decoration: none;
+  color: #F5F5DC;
+}
+
+.b {
+  text-decoration: none;
+  color: #F5F5DC;
+}
+
+#z {
+  color: #FFC080;
+}
+
+.q {
+  color: #0097A7;
+}
+
+#e {
+  color: #1A964F;
+}
+
+#h {
+  color: #1A964F;
+}
+
+#j {
+  color: #145DB7;
+}
+
+#o {
+  color: #833ab4;
+}
+
+#l {
+  color: hwb(243 5% 20%);
+}
+
+.cv {
+  text-decoration: none;
+}
+
+#nv {
+  color: black;
+}
+
+.list {
+  text-decoration: none;
+  color: #3B2F2F;
+}
+
+#su {
+  color: black;
+  background-color: #666666;
+  height: 50px;
+}
+
+#f3 {
+  background-color: #333333;
+}
+
+.share {
+  margin: 25px 25px 25px 25px;
+  color: #333333;
+  background-color: #333333;
+  display: inline-block;
+  border: 1px solid black;
+  transition: all 2s;
+}
+
+#bsd {
+  border: 2px solid black;
+  height: 200px;
+  background-color: #666666;
+}
+
+#SU {
+  background-color: #333333;
+}
+
+.ContactUs {
+  border: 3px solid #FFF0F0;
+  display: inline-block
+}
+
+#cuo {
+  background-color: #333333;
+}
+
+#A {
+  color: black;
+}
+
+#FollowUs {
+  text-align: center;
+  background-color: #333333;
+}
+
+#header {
+  background-color: #666666;
+  padding: 0px 0px 10px 0px;
+  border: solid black;
+}
+
+#Hi {
+  color: #0097A7;
+}
+
+.t {
+  color: #F5F5FD;
+}
+
+@media (max-width: 300px) {
+  body {
+    color: white;
+  }
+}
+
+#ss {
+  color: orange;
+ 
+}
+
+.cdi {
+  text-align: center;
+ 
+}
+
+
+
+.key {
+  
+  color: #0097A7;
+  background-color: #F5F5FD;
+  background-color: #F5F5DC;
+}
