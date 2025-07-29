@@ -7,6 +7,8 @@ To Run Project on your Mac Operating Sytem:
 <br />
 Now write following Commands:
 <br />
+cd umair-project
+<br />
 npm install
 <br />
 npm run dev
